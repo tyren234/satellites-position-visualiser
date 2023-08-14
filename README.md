@@ -1,6 +1,4 @@
-# Project Title
-
-Satevis
+# Satevis
 
 ## Description
 
@@ -16,6 +14,11 @@ Python appplication that visualises positions of satelites and related statistic
 6. Explore other tabs at the bottom of the app!
 
 ### Dependencies
+
+- numpy
+- wget
+- matplotlib
+- PyQt6
 
 ### Installing
 
